@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "spr",
+    "type": "java.lang.String",
+    "description": "A description for 'spr'"
+  },
+  {
+    "name": "spring.joa.database",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.joa.database'"
+  }
+]}
